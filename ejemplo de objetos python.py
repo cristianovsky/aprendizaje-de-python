@@ -7,7 +7,7 @@ class Carro():
 	
 
 	#Proiedades
-	marca = "Ford"
+	marca = "Ford1"
 	color = "Rojo"
 	modelo = "2010"
 	__clave = ""
